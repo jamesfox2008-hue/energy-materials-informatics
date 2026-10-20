@@ -1,0 +1,10 @@
+,value
+c_index_part1_model,0.6423114977805678
+c_index_rich_features,0.6585575644685744
+c_index_survival_forest,0.696469522205147
+r2_part1_model,0.13897916133126512
+r2_rich_features,0.17642201132761848
+r2_dark_only_model,0.0936581092529589
+r2_light_only_model,-0.018463850603445443
+devices_used_survival,7358.0
+devices_used_t80_only,1832.0
