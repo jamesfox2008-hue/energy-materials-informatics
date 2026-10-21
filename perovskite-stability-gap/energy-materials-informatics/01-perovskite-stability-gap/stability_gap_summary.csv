@@ -1,0 +1,21 @@
+,value
+devices,42443
+papers,7358
+share_with_stability_test,0.17479914237919092
+stability_share_2013,0.034482758620689655
+stability_share_2019,0.23382144544166272
+t80_share_2019,0.056211620217288615
+devices_with_T80,1832
+devices_T80_plus_core_conditions,1306
+share_of_tests_dark_shelf_life,0.6496832457204474
+tested_outlasted_no_T80,3133
+tested_fell_below_80_no_T80,2408
+R2_random_split,0.34114313443841693
+R2_grouped_by_paper,0.1234609729551142
+error_factor_grouped,4.382344641099601
+error_factor_baseline,5.001067718584
+top_feature,Light vs dark
+test_conditions_share_of_importance,0.7176768966774972
+tested_1000h_plus,0.24585523655479175
+tested_damp_heat,0.009704811969268095
+tested_light_mpp,0.07170777732848092

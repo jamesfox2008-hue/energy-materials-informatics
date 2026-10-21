@@ -1,0 +1,37 @@
+,value
+sunlight_energy_past_1100nm,0.19573851126936395
+sunlight_photons_past_1100nm,0.36914684783561325
+audit_measurements,3895
+audit_compositions,2470
+audit_measured_more_than_once,454
+audit_median_spread_of_repeats_eV,0.17999999999999994
+audit_share_of_repeats_disagreeing_by_over_0.1eV,0.6960352422907489
+audit_share_with_gap_reaching_full_SWIR,0.17935222672064777
+audit_share_with_gap_past_silicon,0.2777327935222672
+audit_top25_most_measured_in_matbench,0
+audit_Ag2Se_in_dataset,False
+regression_MAE_all_eV,0.4102898588795746
+regression_MAE_guess_the_median_eV,1.0777628361858191
+regression_MAE_on_narrow_gap_compounds_eV,0.3870254972442681
+regression_median_prediction_for_narrow_gap_compounds_eV,0.7016000000000011
+regression_narrow_gap_precision,0.927710843373494
+regression_narrow_gap_recall,0.5347222222222222
+classifier_metal_accuracy,0.9123343527013251
+classifier_metal_ROC_AUC,0.9714250990148559
+classifier_narrow_gap_precision,0.7649880095923262
+classifier_narrow_gap_recall,0.7384259259259259
+holdout_correct,14
+holdout_total,17
+Ag2Se_regression_gap_eV,0.9417699999999997
+Ag2Se_p_narrow,0.5718569453394445
+"funnel_Pb-, Hg-, Cd-free formulas (≤3 elements)",40459
+funnel_Predicted narrow-gap non-metal,768
+funnel_Charge-balanced,637
+"funnel_Practical elements, confident non-metal",230
+funnel_...of which never measured,153
+heavy_element_share_pool,0.17434934130848515
+heavy_element_share_candidates,0.8414442700156985
+thermoelectric_share_Confident wide-gap non-metals,0.13129346314325452
+thermoelectric_share_Confident metals,0.17050434524251654
+thermoelectric_share_All screened formulas,0.16834326107911712
+thermoelectric_share_Infrared candidates,0.4725274725274725

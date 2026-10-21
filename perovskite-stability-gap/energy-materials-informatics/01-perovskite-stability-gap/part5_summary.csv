@@ -1,0 +1,7 @@
+,value
+passes_all_checks,Ag⁺
+orbital_match_ions,"Ag⁺, Au⁺, In⁺, Tl⁺"
+ag_4d_minus_br_4p_eV,-0.09175679359200117
+cu_3d_minus_br_4p_eV,2.532346003931999
+na_2p_minus_br_4p_eV,-20.824928128572
+orbital_window_stable_range_eV,0.5-3.2
